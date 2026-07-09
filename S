@@ -1,0 +1,13 @@
+START COMMANDS
+
+1) Install dependencies
+npm install
+
+2) Run full stack in development
+npm run dev
+
+3) Build client
+npm run build
+
+4) Run server production
+npm run start
